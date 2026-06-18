@@ -20,6 +20,8 @@ function App() {
           <li>PHP</li>
         </ul>
 
+        <h3>Redes Sociais:</h3>
+
         <button><a href="https://github.com/guilherme-marian" target="_blank" rel="noopener noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/GitHub_Invertocat_Logo.svg" alt="GitHub" />GitHub</a></button>
 
       </div>
